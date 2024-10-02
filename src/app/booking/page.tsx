@@ -48,7 +48,6 @@ export default function Booking() {
                     </Button>
                 </form>
             </div>
-            <PromoteCard />
         </main>
     );
 }
